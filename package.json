@@ -1,0 +1,13 @@
+{
+  "name": "b2b-sales-engine",
+  "version": "0.1.0-recovery",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/pin-auth-v2.test.mjs",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.1.2"
+  }
+}
