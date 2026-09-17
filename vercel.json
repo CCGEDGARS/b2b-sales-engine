@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/pin-auth",
+      "destination": "/api/status"
+    }
+  ]
+}
